@@ -1,0 +1,10 @@
+{
+  "name": "tiktok-repost-remover-ragz",
+  "version": "1.1.0",
+  "description": "TikTok All Repost Remover - Darkvoid Edition by ragz",
+  "private": true,
+  "scripts": {
+    "dev": "echo 'Static site - no dev server needed'",
+    "build": "echo 'No build required for static files'"
+  }
+}
